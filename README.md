@@ -1,6 +1,6 @@
 # 🐍 My Python Journey
 
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Python Learning](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMxa3lyancwdnM1am03dWhhZWhjaGM1Ymk0c21lbm1iNGNnM0NnMnEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 
 Welcome to **My Python Journey** – a personal collection of Python scripts, practice exercises, and notes I’ve created while learning Python from beginner to advanced level through YouTube tutorials.
 
