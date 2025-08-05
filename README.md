@@ -69,16 +69,30 @@ This repo helps me:
 
 ---
 
-## 📩 Contributions
+## 📊 Badges
 
-This is a personal learning repository, but feel free to fork or clone if you're learning too!
-
----
-
-## 🧠 License
-
-This project is licensed under the MIT License.
+![GitHub Repo stars](https://img.shields.io/github/stars/foysalhridoy/My_Python_Journey?style=social)
+![GitHub forks](https://img.shields.io/github/forks/foysalhridoy/My_Python_Journey?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/foysalhridoy/My_Python_Journey)
+![GitHub language count](https://img.shields.io/github/languages/count/foysalhridoy/My_Python_Journey)
+![GitHub top language](https://img.shields.io/github/languages/top/foysalhridoy/My_Python_Journey)
 
 ---
 
-_Thanks for visiting. Happy coding!_ ✨
+## 📈 Contribution Graph
+
+This repository will grow with my continuous practice. Stay tuned for updates! 🌱  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=foysalhridoy&theme=github-compact)
+
+---
+
+## 🤝 Connect with Me
+
+* 📧 Email: [ffoysalhridoy@gmail.com](mailto:ffoysalhridoy@gmail.com)  
+* 💼 LinkedIn: [md-ferdous-foysal-hridoy](https://www.linkedin.com/in/md-ferdous-foysal-hridoy-43758a319/)  
+* 🐙 GitHub: [foysalhridoy](https://github.com/foysalhridoy)
+
+---
+
+⭐ If you find this repository helpful, don’t forget to give it a star!
